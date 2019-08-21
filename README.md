@@ -1,2 +1,2 @@
 # Galaadt
-Generic Algorithms and Abstract Data Types
+Generic Algorithms Library and Abstract Data Types
